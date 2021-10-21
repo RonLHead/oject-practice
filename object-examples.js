@@ -12,3 +12,10 @@ var dog = {
   isNeutered = true,
   weight = 80
 }
+
+var customer = {
+  name = "John Doe",
+  age = 35,
+  isRegistered = false,
+  user = "jdoe"
+}

@@ -5,3 +5,10 @@ var car = {
   color = blue;
   carModel = "Sedan",
 }
+
+var dog = {
+  breed = "Mixed",
+  color = "Brown",
+  isNeutered = true,
+  weight = 80
+}
